@@ -21,9 +21,10 @@
 
 <br>
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning tensorflow, flutter 
-- 📫 How to reach me: hannabae@gm.gist.ac.kr 
+- 🔭 I’m currently working Autonomous Computing System Lab. 
+- 🌱 I’m currently learning tensorflow, flutter, Pytorch.
+- 📫 How to reach me: hannabae@gm.gist.ac.kr
+- https://www.notion.so/Hanna-Bae-d156fdaaca914aa5b7592fa85d7dea66?pvs=4
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hanna-bae)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>](gift4u.click)  
