@@ -33,4 +33,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanna-bae&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/hanna-bae)  
