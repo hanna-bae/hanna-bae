@@ -24,7 +24,7 @@
 - 🔭 I’m currently working Statistical Inference and Information Theory Laboratory.
 - 🌱 I’m currently learning Auonomous Driving & 3D vision & Multimodal
 - 📫 How to reach me: hannabae@kaist.ac.kr
-- https://www.notion.so/Hanna-Bae-d156fdaaca914aa5b7592fa85d7dea66?pvs=4
+- [https://www.notion.so/Hanna-Bae-d156fdaaca914aa5b7592fa85d7dea66?pvs=4](https://docs.google.com/document/d/16aE1vvmt_sBqukMC6ZOtzMmSDkXrvr6LjdHVQUNy1lA/edit?usp=sharing)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hanna-bae)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>](gift4u.click)  
