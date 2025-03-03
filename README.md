@@ -21,9 +21,9 @@
 
 <br>
 
-- 🔭 I’m currently working Autonomous Computing System Lab. 
-- 🌱 I’m currently learning tensorflow, flutter, Pytorch.
-- 📫 How to reach me: hannabae@gm.gist.ac.kr
+- 🔭 I’m currently working Statistical Inference and Information Theory Laboratory.
+- 🌱 I’m currently learning Auonomous Driving & 3D vision & Multimodal
+- 📫 How to reach me: hannabae@kaist.ac.kr
 - https://www.notion.so/Hanna-Bae-d156fdaaca914aa5b7592fa85d7dea66?pvs=4
 
 
