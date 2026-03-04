@@ -29,7 +29,5 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hanna-bae)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>](gift4u.click)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanna-bae)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanna-bae&show_icons=true)  
 
