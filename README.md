@@ -27,7 +27,7 @@
 - https://docs.google.com/document/d/16aE1vvmt_sBqukMC6ZOtzMmSDkXrvr6LjdHVQUNy1lA/edit?usp=sharing
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hanna-bae)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>](gift4u.click)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hanna-bae)  
 
 
 
