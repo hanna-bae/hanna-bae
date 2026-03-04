@@ -22,7 +22,7 @@
 <br>
 
 - 🔭 I’m currently working Statistical Inference and Information Theory Laboratory.
-- 🌱 I’m currently learning Auonomous Driving & 3D vision & Multimodal
+- 🌱 I’m currently learning Dense SLAM & 3D vision
 - 📫 How to reach me: hannabae@kaist.ac.kr
 - https://docs.google.com/document/d/16aE1vvmt_sBqukMC6ZOtzMmSDkXrvr6LjdHVQUNy1lA/edit?usp=sharing
 
